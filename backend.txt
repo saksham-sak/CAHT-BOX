@@ -1,1 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlmodel
+aiohttp
+openai
+python-multipart
 
